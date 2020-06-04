@@ -1,0 +1,27 @@
+<canais>
+<canal>
+<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] LANÇAMENTOS [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
+<thumbnail> https://ia601509.us.archive.org/14/items/1jofyu-3ugsiz/FILMES.png </thumbnail>
+<externallink> https: // </externallink>
+<fanart> https://archive.org/download/920992/920992.jpg </fanart>
+<info>
+ 
+ 
+[COLOR deeppink] | [/ COLOR] - OS MELHORES DE LANÇAMENTOS- [COLOR deeppink] | [/ COLOR] </info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+<canais>
+<canal>
+<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] AÇÃO [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
+<thumbnail> https://ia601509.us.archive.org/14/items/1jofyu-3ugsiz/FILMES.png </thumbnail>
+<externallink> https: // </externallink>
+<fanart> https://archive.org/download/920992/920992.jpg </fanart>
+<info>
+ 
+ 
+[COLOR deeppink] | [/ COLOR] - MELHORES DE AÇÃO- [COLOR deeppink] | [/ COLOR] </info>
+</channel>
+</channels>
